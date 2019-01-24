@@ -1,5 +1,4 @@
-
-function calculateGrade(marks) { 
+function calculateGrade(marks) {
   const average = calculateAverage(marks);
   if (average < 60) return 'F';
   if (average < 70) return 'D';
@@ -9,8 +8,8 @@ function calculateGrade(marks) {
 }
 
 function calculateAverage(array) {
-  let sum = 0; 
+  let sum = 0;
   for (let value of array)
-    sum += value; 
-  return sum / array.length; 
+    sum += value;
+  return sum / array.length;
 }

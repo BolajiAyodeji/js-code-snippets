@@ -1,4 +1,3 @@
-
 showNumbers(10);
 
 function showNumbers(limit) {

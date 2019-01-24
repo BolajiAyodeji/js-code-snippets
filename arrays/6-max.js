@@ -1,12 +1,11 @@
-
-const numbers = [1, 2, 3, 4]; 
+const numbers = [1, 2, 3, 4];
 
 const max = getMax([]);
 
-console.log(max); 
+console.log(max);
 
-function getMax(array) { 
-  if (array.length === 0) return undefined; 
+function getMax(array) {
+  if (array.length === 0) return undefined;
 
   // let max = array[0];
 
@@ -14,7 +13,7 @@ function getMax(array) {
   //   if (array[i] > max)
   //     max = array[i];
 
-  // return max; 
+  // return max;
 
   return array.reduce((a, b) => (a > b) ? a : b);
 }

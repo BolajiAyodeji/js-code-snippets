@@ -1,4 +1,3 @@
-
 const circle = {
   radius: 1,
   get area() {

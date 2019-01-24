@@ -1,4 +1,3 @@
-
 console.log(sum(10));
 
 function sum(limit) {
@@ -8,5 +7,5 @@ function sum(limit) {
     if (i % 3 === 0 || i % 5 === 0)
       sum += i;
 
-  return sum; 
+  return sum;
 }

@@ -1,4 +1,3 @@
-
 const output = fizzBuzz(5);
 console.log(output);
 
@@ -7,13 +6,13 @@ function fizzBuzz(input) {
     return NaN;
 
   if ((input % 3 === 0) && (input % 5 === 0))
-    return 'FizzBuzz'; 
+    return 'FizzBuzz';
 
   if (input % 3 === 0)
-    return 'Fizz'; 
+    return 'Fizz';
 
     if (input % 5 === 0)
-    return 'Buzz'; 
+    return 'Buzz';
 
-  return input; 
+  return input;
 }
