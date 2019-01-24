@@ -1,6 +1,9 @@
 # js-code-snippets
-Learn basic JavaScript concepts in action.
+Learn basic JavaScript concepts in action. <br>
 For beginners and intermediates!
 
-Topics:
 - Arrays
+- Control flow
+- Functions
+- Objects
+- Operators
