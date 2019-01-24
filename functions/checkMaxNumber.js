@@ -1,4 +1,4 @@
 function max (a, b){
   return (a > b) ? a : b;
 }
-max (30, 5)
+console.log(max (30, 5));
