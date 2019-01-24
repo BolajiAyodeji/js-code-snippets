@@ -8,5 +8,5 @@ const person = {
   skinColor: ': ' + 'dark'
 }
 
-for (key in person)
-console.log(key, person[key]);
+for (index in person)
+console.log(index, person[index]);
