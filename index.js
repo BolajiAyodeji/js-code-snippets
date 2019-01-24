@@ -1,4 +1,1 @@
-function max (a, b){
-  return (a > b) ? a : b;
-}
-console.log(max (30, 5));
+console.log('Bolaji Ayodeji')
