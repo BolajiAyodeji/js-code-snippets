@@ -1,5 +1,4 @@
 function max (a, b){
-  let maxNum = (a > b) ? a : b;
-  console.log(maxNum);
+  return (a > b) ? a : b;
 }
 max (30, 5)
