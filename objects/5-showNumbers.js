@@ -1,8 +1,11 @@
-showNumbers(10);
+// check if number is ODD or even
+// Display all number count from 0 > limit and number status
+// e.g 2 "EVEN"
 
-function showNumbers(limit) {
+function showNumber (limit) {
   for (let i = 0; i <= limit; i++) {
-    const message = (i % 2 === 0) ? 'EVEN' : 'ODD';
-    console.log(i, message);
+    const response = (i % 2 === 0) ? "EVEN" : "ODD";
+    console.log(i, response);
   }
 }
+showNumber(10);
