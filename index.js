@@ -1,1 +1,1 @@
-console.log('Bolaji Ayodeji')
+console.log('Bolaji Ayodeji');
