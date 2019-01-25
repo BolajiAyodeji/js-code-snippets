@@ -1,9 +1,4 @@
-showPrimes(10);
-
-function showPrimes(limit) {
-  for (let number = 2; number <= limit; number++)
-    if (isPrime(number)) console.log(number);
-}
+showPrimes(19);
 
 function isPrime(number) {
   for (let factor = 2; factor < number; factor++)
@@ -11,4 +6,9 @@ function isPrime(number) {
       return false;
 
   return true;
+}
+
+function showPrimes(limit) {
+  for (let number = 2; number <= limit; number++)
+    if (isPrime(number)) console.log(number);
 }
