@@ -1,5 +1,5 @@
 // count number of strings and numbers in an Object
-// rearrange and log strings before
+// rearrange and log strings before numbers
 
 function showProperties(obj) {
   let count = 0;

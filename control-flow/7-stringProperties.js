@@ -1,15 +1,19 @@
-const movie = {
-  title: 'a',
-  releaseYear: 2018,
-  rating: 4.5,
-  director: 'b'
-};
-
-showProperties(movie);
+// count number of strings in an Object
+// return strings in the object
 
 function showProperties(obj) {
-  for (let key in obj) {
-    if (typeof obj[key] === 'string')
-      console.log(key, obj[key]);
-  }
+  let count = 0;
+  for (let value in obj)
+    if (typeof obj[value] === 'string')
+    console.log(value + '==>' + obj[value])
 }
+const userData = {
+  name: 'Bolaji',
+  gender: 'male',
+  age: 19,
+  telNumber: 08109445504,
+  email: 'hi@bolajiayodeji.com',
+  mood: 'happy',
+  magicNumber: 5
+}
+console.log(showProperties(userData));
