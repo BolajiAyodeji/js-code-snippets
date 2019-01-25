@@ -1,11 +1,12 @@
-console.log(sum(10));
+// Return the sum of the multiples of 3 and 5 which is < limit
 
 function sum(limit) {
   let sum = 0;
 
   for (let i = 0; i <= limit; i++)
     if (i % 3 === 0 || i % 5 === 0)
-      sum += i;
+    sum += i;
 
-  return sum;
+    return sum;
 }
+console.log(sum(10));
