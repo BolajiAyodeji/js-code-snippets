@@ -3,13 +3,18 @@
 
 function showProperties(obj) {
   let count = 0;
+
+  console.log('-----strings-----');
+
   for (let value in obj)
     if (typeof obj[value] === 'string')
-    console.log(value + '==>' + obj[value])
+    console.log(value + '==>' + obj[value]);
 
-    for (let value in obj)
-      if  (typeof obj[value] === 'number')
-    console.log(value + '==>' + obj[value])
+    console.log('-----numbers-----');
+
+  for (let value in obj)
+    if  (typeof obj[value] === 'number')
+    console.log(value + '==>' + obj[value]);
 }
 const userData = {
   name: 'Bolaji',
