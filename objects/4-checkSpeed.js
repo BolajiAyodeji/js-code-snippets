@@ -21,4 +21,4 @@ function checkSpeed(speed) {
   console.log(points + ' points');
 }
 
-checkSpeed(8);
+checkSpeed(130);
