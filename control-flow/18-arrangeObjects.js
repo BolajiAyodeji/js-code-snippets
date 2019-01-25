@@ -6,15 +6,17 @@ function showProperties(obj) {
 
   console.log('-----strings-----');
 
-  for (let value in obj)
+  for (let value in obj) {
     if (typeof obj[value] === 'string')
     console.log(value + '==>' + obj[value]);
+  }
 
     console.log('-----numbers-----');
 
-  for (let value in obj)
+  for (let value in obj) {
     if  (typeof obj[value] === 'number')
     console.log(value + '==>' + obj[value]);
+  }
 }
 const userData = {
   name: 'Bolaji',

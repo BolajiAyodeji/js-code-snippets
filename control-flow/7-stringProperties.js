@@ -3,9 +3,10 @@
 
 function showProperties(obj) {
   let count = 0;
-  for (let value in obj)
+  for (let value in obj) {
     if (typeof obj[value] === 'string')
     console.log(value + '==>' + obj[value])
+  }
 }
 const userData = {
   name: 'Bolaji',
