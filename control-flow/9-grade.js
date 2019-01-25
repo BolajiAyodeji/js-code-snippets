@@ -1,9 +1,17 @@
 // Calculate the average of the marks
-// 1 - 59 ==> Fail
+// 0 - 59 ==> Fail
 // 60 - 69 ==> Pass
 // 70 - 79 ==> Good
 // 80 - 89 ==> Very Good
 // 90 - 100 ==> Excellent
+
+function calculateAverage(array) {
+  let sum = 0;
+  for (let value of array)
+  sum += value;
+  return sum / array.length;
+}
+
 function calculateGrade(marks) {
   const average = calculateAverage(marks);
   if (average < 60) return 'Fail';
@@ -12,12 +20,5 @@ function calculateGrade(marks) {
   if (average < 90) return 'Very Good';
   return 'Excellent';
 }
-
-function calculateAverage(scores) {
-  let sum = 0;
-  for (let index of scores)
-  sum += index;
-  return sum / scores.length;
-}
-const scores = [90, 95, 90];
-console.log(calculateGrade(scores));
+const marks = [40, 57, 90];
+console.log(calculateGrade(marks));
