@@ -16,12 +16,12 @@ person.fullName.call(person2); // Will return "Mary Ayodeji"
 
 
 // The call method with arguments
-var person = {
+let person = {
   fullName: function(city, country) {
     return this.firstName + " " + this.lastName + "," + city + "," + country;
   }
 }
-var person1 = {
+let person1 = {
   firstName:"Bolaji",
   lastName: "Ayodeji",
 }
