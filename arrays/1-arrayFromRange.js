@@ -1,4 +1,4 @@
-const numbers = arrayFromRange(1, -4);
+const numbers = arrayFromRange(1, 4);
 
 console.log(numbers);
 
