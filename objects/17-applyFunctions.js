@@ -1,10 +1,10 @@
 let person = {
   fullName: function(city, country) {
-    return this.firstName + " " + this.lastName + "," + city + "," + country;
+    return this.firstName + ' ' + this.lastName + ',' + city + ',' + country;
   }
 }
 let person1 = {
-  firstName:"Bolaji",
-  lastName: "Ayodeji",
+  firstName:'Bolaji',
+  lastName: 'Ayodeji',
 }
-person.fullName.apply(person1, ["Kogi", "Nigeria"]);
+person.fullName.apply(person1, ['Kogi', 'Nigeria']);
