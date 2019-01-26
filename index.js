@@ -1,11 +1,9 @@
-//In JavaScript, functions are objects
-
-function Circle(radius) {
+function CreateCircle(radius) {
   this.radius = radius;
   this.draw = function() {
     console.log('draw');
   }
 }
 
-const hi = Circle.call(1);
-
+const circleConstructor = new CreateCircle(1);
+console.log(circleConstructor);
