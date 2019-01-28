@@ -1,0 +1,10 @@
+// String primitive
+const message = 'hello';
+console.log(typeof(message));
+
+// String object
+const response = new String('Howdy?');
+console.log(typeof(response));
+
+// All string methods can be found Here
+// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String
