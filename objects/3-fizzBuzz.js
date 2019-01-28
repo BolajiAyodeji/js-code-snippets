@@ -5,6 +5,7 @@
 //If number is not divisible by 3 or 5 ==> Number
 //If input is not a number ==> Not a number!
 
+const input = prompt('enter number')
 let fizzBuzz = function (input) {
   if (typeof input !== 'number')
     return 'Not a number!';
