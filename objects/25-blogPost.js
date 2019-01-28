@@ -8,13 +8,13 @@
 
 
 let post = {
-  title: 'lorem',
-  body: 'x',
-  author: 'bol',
+  title: 'lorem ipsum',
+  body: 'hello world',
+  author: 'bolaji ayodeji',
   views: 100,
   comments: [
-    {author: 'hu', body: 'hey'},
-    {author: 'hunm', body: 'huuey'},
+    {author: 'daniel', body: 'nice!'},
+    {author: 'rachel', body: 'cool'},
   ],
   isLive: true
 }
