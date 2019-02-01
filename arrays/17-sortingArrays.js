@@ -12,7 +12,7 @@ const courses = [
   {id: 2, name: 'Node.js'},
 ]
 
-courses.sort(function(a, b) {
+courses.sort((a, b) =>{
 // a < b => -1
 // a > b => 1
 // a =b => 0
