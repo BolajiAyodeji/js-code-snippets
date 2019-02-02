@@ -1,8 +1,4 @@
-const numbers = [1, 2, 3, 4];
-
-const output = move(numbers, 1, 3);
-
-console.log(output);
+const numbers = [1, 2, 3, 4, 5];
 
 function move(array, index, offset) {
   const position = index + offset;
@@ -10,9 +6,12 @@ function move(array, index, offset) {
     console.error('Invalid offset.');
     return;
   }
-
+  else {
   const output = [...array];
-  const element = output.splice(index, 1)[0];
-  output.splice(position, 0, element);
-  return output;
+  const number = output.splice(index, 1)[0];
+  output.splice(position, 0, number);
+  return output
+  }
 }
+
+console.log(move(numbers, 1, -1));
