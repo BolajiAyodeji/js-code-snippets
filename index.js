@@ -14,4 +14,6 @@ function move(array, index, offset) {
   }
 }
 
-console.log(move(numbers, 1, -1));
+console.log(move(numbers, 0, 0));
+
+const letter = 'hello okay hi';
