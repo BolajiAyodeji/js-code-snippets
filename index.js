@@ -1,11 +1,11 @@
-const url = 'https://bolajiayodeji.com/'
-const urlSlug = (postTitle, category) => {
-let postUrl = postTitle.toLowerCase().split(' ');
-let postSlug = `${url}` + category + '/' + postUrl.join('-');
-return postSlug;
-}
-let postTitle = 'Introduction to Chrome Lighthouse'
-let category = 'dt'
-console.log(urlSlug(postTitle, category));
-
-// https://bolajiayodeji.com/dt/introduction-to-chrome-lighthouse
+const euros = [10, 20, 20, 10];
+const average = euros.reduce((total, amount, index, array) => {
+  const sum = total += amount;
+  console.log(sum);
+  if( index === array.length-1) {
+    return sum/array.length;
+  }else {
+    return total;
+  }
+});
+console.log(average); // 39.37
