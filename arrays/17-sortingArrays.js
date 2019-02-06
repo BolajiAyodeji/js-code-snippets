@@ -12,6 +12,7 @@ const courses = [
   {id: 2, name: 'Node.js'},
 ]
 
+
 courses.sort((a, b) =>{
 // a < b => -1
 // a > b => 1
