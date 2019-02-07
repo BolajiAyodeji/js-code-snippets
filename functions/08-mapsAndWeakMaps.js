@@ -51,7 +51,3 @@ myMap.set(myObj2, 'bar');
 myMap.set(myFunc2, 'world');
 
 console.log(myMap.get(myObj));
-
-
-
-
