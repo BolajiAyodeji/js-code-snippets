@@ -16,8 +16,3 @@ let people = [
 ]
 
 people.forEach(({firstName})=> console.log(firstName))
-
-function add(a, b) {
-  return a + b;
-}
-console.log()
