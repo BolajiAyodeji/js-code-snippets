@@ -6,10 +6,10 @@ export const subtractAll = (a, b) => {
   return a - b;
 }
 
-export const multiplyAll = (a, b) =>{
+export const multiplyAll = (a, b) => {
   return a * b;
 }
 
-export const divideAll = (a, b) =>{
+export const divideAll = (a, b) => {
   return a / b;
 }

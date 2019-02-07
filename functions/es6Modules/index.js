@@ -1,5 +1,7 @@
 //imports the math functions from ./math.js
-// Detailed guide on es6 modules import/export: https://www.sitepoint.com/understanding-es6-modules/
+// Detailed guide on es6 modules import/export:
+// https://www.sitepoint.com/understanding-es6-modules/
+
 import { sumAll } from './math.js'
 import { subtractAll } from './math.js'
 import { multiplyAll } from './math.js'
