@@ -1,4 +1,6 @@
-# js-code-snippets
+<div align="center">
+    
+# JAVASCRIPT CODE SNIPPETS
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-red.svg?style=flat)](http://makeapullrequest.com)
@@ -7,15 +9,18 @@
 
 Learn basic JavaScript concepts in action. <br>
 For beginners and intermediates!
+  
+|  |
+| :-----------------: |
+|  [Arrays](https://github.com/BolajiAyodeji/js-code-snippets/tree/master/arrays) |
+|  [Control flow](https://github.com/BolajiAyodeji/js-code-snippets/tree/master/control-flow)   |
+|  [Functions](https://github.com/BolajiAyodeji/js-code-snippets/tree/master/functions) |
+| - [Objects](https://github.com/BolajiAyodeji/js-code-snippets/tree/master/objects) | |
+| - [Operators](https://github.com/BolajiAyodeji/js-code-snippets/tree/master/operators) |
 
-- Arrays
-- Control flow
-- Functions
-- Objects
-- Operators
+</div>
 
-
-# Contributors Guide
+## Contributors Guide
 
 1.  If you are new to Git and Github, it is advisable you go through
     [GitHub For Beginners](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/)
