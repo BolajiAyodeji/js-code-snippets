@@ -11,7 +11,7 @@ Learn basic JavaScript concepts in action. <br>
 For beginners and intermediates!
   
 |  |
-| :------------------------------------------------------: |
+| :-----------------: |
 |  [Arrays](https://github.com/BolajiAyodeji/js-code-snippets/tree/master/arrays) |
 | [Control flow](https://github.com/BolajiAyodeji/js-code-snippets/tree/master/control-flow)   |
 | [Functions](https://github.com/BolajiAyodeji/js-code-snippets/tree/master/functions) |
