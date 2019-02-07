@@ -7,7 +7,7 @@
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](http://www.firsttimersonly.com/)
 [![Open Source Helpers](https://www.codetriage.com/bolajiayodeji/js-code-snippets/badges/users.svg)](https://www.codetriage.com/bolajiayodeji/js-code-snippets)
 
-Learn basic JavaScript concepts in action. <br>
+Learn basic JavaScript concepts in action. :zap: <br>
 For beginners and intermediates!
 
 |  |
