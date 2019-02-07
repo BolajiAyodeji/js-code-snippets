@@ -9,8 +9,7 @@
 
 Learn basic JavaScript concepts in action. <br>
 For beginners and intermediates!
-
-<center>   
+  
 |  |
 | :------------- |
 |  [Arrays](https://github.com/BolajiAyodeji/js-code-snippets/tree/master/arrays) |
@@ -18,7 +17,6 @@ For beginners and intermediates!
 | [Functions](https://github.com/BolajiAyodeji/js-code-snippets/tree/master/functions) |
 | [Objects](https://github.com/BolajiAyodeji/js-code-snippets/tree/master/objects) | |
 | [Operators](https://github.com/BolajiAyodeji/js-code-snippets/tree/master/operators) |
-</center>
 
 </div>
 
