@@ -10,6 +10,7 @@
 Learn basic JavaScript concepts in action. <br>
 For beginners and intermediates!
 
+| Hello |
 | :------------- |
 |  [Arrays](https://github.com/BolajiAyodeji/js-code-snippets/tree/master/arrays) |
 | [Control flow](https://github.com/BolajiAyodeji/js-code-snippets/tree/master/control-flow)   |
