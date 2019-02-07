@@ -10,9 +10,7 @@
 Learn basic JavaScript concepts in action. <br>
 For beginners and intermediates!
 
-FORMAT: 1A
-<center>
-    
+<center>   
 |  |
 | :------------- |
 |  [Arrays](https://github.com/BolajiAyodeji/js-code-snippets/tree/master/arrays) |
@@ -20,7 +18,6 @@ FORMAT: 1A
 | [Functions](https://github.com/BolajiAyodeji/js-code-snippets/tree/master/functions) |
 | [Objects](https://github.com/BolajiAyodeji/js-code-snippets/tree/master/objects) | |
 | [Operators](https://github.com/BolajiAyodeji/js-code-snippets/tree/master/operators) |
-    
 </center>
 
 </div>
