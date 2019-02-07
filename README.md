@@ -1,5 +1,5 @@
 <div align="center">
-    
+
 # JAVASCRIPT CODE SNIPPETS
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -9,14 +9,15 @@
 
 Learn basic JavaScript concepts in action. <br>
 For beginners and intermediates!
-  
+
 |  |
 | :-----------------: |
 |  [Arrays](https://github.com/BolajiAyodeji/js-code-snippets/tree/master/arrays) |
-|  [Control flow](https://github.com/BolajiAyodeji/js-code-snippets/tree/master/control-flow)   |
+|  [Control flow](https://github.com/BolajiAyodeji/js-code-snippets/tree/master/control-flow) |
+|  [DOM](https://github.com/BolajiAyodeji/js-code-snippets/tree/master/dom) |
 |  [Functions](https://github.com/BolajiAyodeji/js-code-snippets/tree/master/functions) |
-| - [Objects](https://github.com/BolajiAyodeji/js-code-snippets/tree/master/objects) | |
-| - [Operators](https://github.com/BolajiAyodeji/js-code-snippets/tree/master/operators) |
+|  [Objects](https://github.com/BolajiAyodeji/js-code-snippets/tree/master/objects) | |
+|  [Operators](https://github.com/BolajiAyodeji/js-code-snippets/tree/master/operators) |
 
 </div>
 
@@ -25,7 +26,7 @@ For beginners and intermediates!
 1.  If you are new to Git and Github, it is advisable you go through
     [GitHub For Beginners](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/)
     before moving to the next step.
-    
+
 2.  Fork the Repository [here](https://github.com/BolajiAyodeji/js-code-snippets/fork)
 
 3.  Clone the forked Repository <br>
