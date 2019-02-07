@@ -10,6 +10,7 @@
 Learn basic JavaScript concepts in action. <br>
 For beginners and intermediates!
 
+FORMAT: 1A
 <center>
     
 |  |
