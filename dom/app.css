@@ -3,6 +3,7 @@
   height: 400px;
   margin-top: 20px;
   position: relative;
+  border-radius: 10px;
   background: yellow;
 }
 #anime {
@@ -10,4 +11,11 @@
   height: 50px;
   position: absolute;
   background: red;
+}
+#mouse {
+  background-color:#D94A38;
+  width:120px;
+  height:20px;
+  padding:40px;
+  border-radius: 10px;
 }
