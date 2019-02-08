@@ -30,20 +30,26 @@ For beginners and intermediates!
 2.  Fork the Repository [here](https://github.com/BolajiAyodeji/js-code-snippets/fork)
 
 3.  Clone the forked Repository <br>
-`$ git clone https://github.com/BolajiAyodeji/js-code-snippets.git`
+```git
+$ git clone https://github.com/BolajiAyodeji/js-code-snippets.git
+```
 
 4.  Enter the cloned directory <br>
-`cd js-code-snippets`
+```git
+cd js-code-snippets
+```
 
 5.  Open directory in your Code Editor <br>
-`code .`
+```git
+code .
+```
 
 6.  Add new snippets! <br>
     Ensure to add each snippets in the expected folder directory. <br>
     If possible, try to show multiples ways of solving the same problem from the less efficient to the most efficient algorithm.
 
 7.  Push your files <br>
-```shell
+```git
 $ git add --all
 $ git commit -m "commit description here"
 $ git push -u origin master
