@@ -15,6 +15,7 @@
 // Core DOM - standard model for all document types
 // XML DOM - standard model for XML documents
 // HTML DOM - standard model for HTML documents
+
 // What is the HTML DOM?
 // The HTML DOM is a standard object model and programming interface for HTML. It defines:
 
