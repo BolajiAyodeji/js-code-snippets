@@ -23,37 +23,38 @@ For beginners and intermediates!
 
 ## Contributors Guide
 
-1.  If you are new to Git and Github, it is advisable you go through
+- If you are new to Git and Github, it is advisable you go through
     [GitHub For Beginners](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/)
     before moving to the next step.
 
-2.  Fork the Repository [here](https://github.com/BolajiAyodeji/js-code-snippets/fork)
+- Fork the Repository [here](https://github.com/BolajiAyodeji/js-code-snippets/fork)
 
-3.  Clone the forked Repository <br>
+- Clone the forked Repository <br>
 ```git
 $ git clone https://github.com/BolajiAyodeji/js-code-snippets.git
 ```
 
-4.  Enter the cloned directory <br>
+- Enter the cloned directory <br>
 ```git
 cd js-code-snippets
 ```
 
-5.  Open directory in your Code Editor <br>
+- Open directory in your Code Editor <br>
 ```git
 code .
 ```
 
-6.  Add new snippets! <br>
+- Add new snippets! <br>
     Ensure to add each snippets in the expected folder directory. <br>
     If possible, try to show multiples ways of solving the same problem from the less efficient to the most efficient algorithm.
 
-7.  Push your files <br>
+- Push your files <br>
 ```git
 $ git add --all
 $ git commit -m "commit description here"
 $ git push -u origin master
 ```
+
 - Open a Pull Request ( [What is a pull request?](https://yangsu.github.io/pull-request-tutorial/) )
 - Add enough description of what you did, changes you made and if possible screenshots
 - Wait for Review (Your PR would be reviewed and merged if deemed fit)
