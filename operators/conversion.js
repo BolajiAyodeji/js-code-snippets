@@ -1,9 +1,11 @@
 // Converting Integer to String
 let age = 34;
-let age_toString = '' + age;
-console.log(age_toString);
+let ageToString = '' + age;
+console.log(ageToString);
+console.log(typeof ageToString);
 
 // Converting String to Integer
 let length = '785';
-let length_toInt = +length;
-console.log(length_toInt);
+let lengthToInt = +length;
+console.log(lengthToInt);
+console.log(typeof lengthToInt);
