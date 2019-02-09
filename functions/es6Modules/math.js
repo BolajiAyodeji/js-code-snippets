@@ -11,7 +11,7 @@ module.exports = {
   divideAll: (a, b) => {
     return a / b;
   },
-  modulus: (a, b) => {
+  findModulus: (a, b) => {
     return a % b;
   }
 };
