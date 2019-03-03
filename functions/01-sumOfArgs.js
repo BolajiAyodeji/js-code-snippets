@@ -1,8 +1,10 @@
+
+function sum(...nums) {
+  if (nums.length === 1 && Array.isArray(nums[0])) {
+    nums = [...nums[0]];
+  }
+  return nums.reduce((a, b) => a + b);
+}
+
 console.log(sum([1, 2, 3, 4]));
 
-function sum(...items) {
-  if (items.length === 1 && Array.isArray(items[0]))
-    items = [...items];
-
-  return items.reduce((a, b) => a + b);
-}
