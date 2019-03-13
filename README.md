@@ -11,14 +11,12 @@ Learn basic JavaScript concepts in action. :zap: <br>
 For beginners and intermediates!
 
 
-|  |
-| :-----------------: |
-|  [Arrays](https://github.com/BolajiAyodeji/js-code-snippets/tree/master/arrays) |
-|  [Control flow](https://github.com/BolajiAyodeji/js-code-snippets/tree/master/control-flow) |
-|  [Dom](https://github.com/BolajiAyodeji/js-code-snippets/tree/master/dom) |
-|  [Functions](https://github.com/BolajiAyodeji/js-code-snippets/tree/master/functions) |
-|  [Objects](https://github.com/BolajiAyodeji/js-code-snippets/tree/master/objects) | |
-|  [Operators](https://github.com/BolajiAyodeji/js-code-snippets/tree/master/operators) |
+[Arrays](https://github.com/BolajiAyodeji/js-code-snippets/tree/master/arrays)
+[Control flow](https://github.com/BolajiAyodeji/js-code-snippets/tree/master/control-flow)
+[DOM](https://github.com/BolajiAyodeji/js-code-snippets/tree/master/dom)
+[Functions](https://github.com/BolajiAyodeji/js-code-snippets/tree/master/functions)
+[Objects](https://github.com/BolajiAyodeji/js-code-snippets/tree/master/objects)
+[Operators](https://github.com/BolajiAyodeji/js-code-snippets/tree/master/operators)
 
 </div>
 
