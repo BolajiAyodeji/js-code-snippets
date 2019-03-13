@@ -10,6 +10,15 @@
 Learn basic JavaScript concepts in action. :zap: <br>
 For beginners and intermediates!
 
+╔══════════════╦════════════════════╦═══════════════╗
+║   house      ║       leader       ║     seat      ║
+╠══════════════╬════════════════════╬═══════════════╣
+║ Arrays       ║ Jon Snow           ║ Winterfell    ║
+║ Control flow ║ Cersei Lannister   ║ Kings Landing ║
+║ DOM          ║ Daenerys Targaryen ║ Dragonstone   ║
+║ Functions    ║ Pyke               ║ Euron Greyjoy ║
+╚══════════════╩════════════════════╩═══════════════╝
+
 |  |
 | :-----------------: |
 |  [Arrays](https://github.com/BolajiAyodeji/js-code-snippets/tree/master/arrays) |
