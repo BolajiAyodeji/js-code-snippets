@@ -31,7 +31,12 @@ For beginners and intermediates!
 ```git
 $ git clone https://github.com/BolajiAyodeji/js-code-snippets.git
 ```
-
+- To keep your fork up to date with the original <br>
+```git
+$ git add remote upstream https://github.com/BolajiAyodeji/js-code-snippets.git
+$ git fetch upstream
+$ git merge upstream/master
+```
 - Enter the cloned directory <br>
 ```git
 cd js-code-snippets
