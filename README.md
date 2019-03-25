@@ -31,7 +31,6 @@ For beginners and intermediates!
 ```git
 $ git clone https://github.com/BolajiAyodeji/js-code-snippets.git
 ```
-
 - Enter the cloned directory <br>
 ```git
 cd js-code-snippets
@@ -52,7 +51,12 @@ $ git add --all
 $ git commit -m "commit description here"
 $ git push -u origin master
 ```
-
+- To keep your fork up to date with the original <br>
+```git
+$ git add remote upstream https://github.com/BolajiAyodeji/js-code-snippets.git
+$ git fetch upstream
+$ git merge upstream/master
+```
 - Open a Pull Request ( [What is a pull request?](https://yangsu.github.io/pull-request-tutorial/) )
 - Add enough description of what you did, changes you made and if possible screenshots
 - Wait for Review (Your PR would be reviewed and merged if deemed fit)
