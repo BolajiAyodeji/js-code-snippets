@@ -12,7 +12,7 @@ console.log(numbers.indexOf(1) !== -1); // returns true
 // A better way
 console.log(numbers.includes(1)); // returns true
 
-// Refrence types
+// Reference types
 const courses = [
   {id: 1, name: 'maths'},
   {id: 2, name: 'english'},
