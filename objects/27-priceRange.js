@@ -5,5 +5,5 @@ let priceRanges = [
 ]
 
 let restaurants = [
-  { avaragePerson: 5 }
+  { averagePerson: 5 }
 ]
