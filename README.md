@@ -62,7 +62,7 @@ $ git merge upstream/master
 - Wait for Review (Your PR would be reviewed and merged if deemed fit)
 
 ## Reference
-[CodeWithMosh JavaScript for Begineers Course](https://codewithmosh.com/courses/324741)
+[CodeWithMosh JavaScript for Beginners Course](https://codewithmosh.com/courses/324741)
 
 ## Helpful Resources
 
