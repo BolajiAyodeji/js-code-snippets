@@ -6,7 +6,7 @@ document.getElementsByTagName(name)	// Find elements by tag name
 document.getElementsByClassName(name)	// Find elements by class name
 
 // Changing HTML Elements
-element.innerHTML =  new html content	// Change the inner HTML of an element
+element.innerHTML =  new htmlContent	// Change the inner HTML of an element
 element.attribute = new value	// Change the attribute value of an HTML element
 element.setAttribute(attribute, value)	// Change the attribute value of an HTML element
 element.style.property = new style	// Change the style of an HTML element
@@ -36,7 +36,7 @@ document.documentElement	// Returns the <html> element	3
 document.documentMode	// Returns the mode used by the browser	3
 document.documentURI	// Returns the URI of the document	3
 document.domain	// Returns the domain name of the document server	1
-document.domConfig	Obsolete. // Returns the DOM configuration	3
+document.domConfig //	Obsolete. Returns the DOM configuration	3
 document.embeds	// Returns all <embed> elements	3
 document.forms	// Returns all <form> elements	1
 document.head	// Returns the <head> element	3

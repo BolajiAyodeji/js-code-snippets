@@ -3,7 +3,7 @@
 function Store() {
   let aisle = {
     fruit: [],
-    vegetalbe: []
+    vegetable: []
   }
   return {
     //Store().add('category', 'item1', 'item2');

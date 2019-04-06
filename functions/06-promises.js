@@ -8,6 +8,6 @@ let d = new Promise((resolve, reject) => {
   }, 1000);
 });
 
-d.then((data) => console.log('succes: ', data));
+d.then((data) => console.log('success: ', data));
 
 d.catch((error) => console.error('error ', error));
