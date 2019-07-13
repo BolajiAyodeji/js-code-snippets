@@ -1,5 +1,5 @@
 <div align="center">
-[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors)
 
 # JAVASCRIPT CODE SNIPPETS
 
@@ -74,6 +74,7 @@ $ git merge upstream/master
     <td align="center"><a href="https://github.com/1baga"><img src="https://avatars2.githubusercontent.com/u/4129853?v=4" width="100px;" alt="Umar Mash"/><br /><sub><b>Umar Mash</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/js-code-snippets/commits?author=1baga" title="Code">💻</a></td>
     <td align="center"><a href="http://www.edmundekott.me"><img src="https://avatars1.githubusercontent.com/u/34253790?v=4" width="100px;" alt="Edmund Ekott"/><br /><sub><b>Edmund Ekott</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/js-code-snippets/commits?author=Edmund1645" title="Code">💻</a></td>
     <td align="center"><a href="http://erons.me"><img src="https://avatars0.githubusercontent.com/u/37238033?v=4" width="100px;" alt="Erons"/><br /><sub><b>Erons</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/js-code-snippets/commits?author=Eronmmer" title="Code">💻</a></td>
+    <td align="center"><a href="http://henryasante.ml"><img src="https://avatars1.githubusercontent.com/u/30865594?v=4" width="100px;" alt="Henry Asante"/><br /><sub><b>Henry Asante</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/js-code-snippets/commits?author=Henry-Asante" title="Code">💻</a></td>
   </tr>
 </table>
 
