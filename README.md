@@ -1,5 +1,5 @@
 <div align="center">
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
 
 # JAVASCRIPT CODE SNIPPETS
 
@@ -19,6 +19,7 @@ For beginners and intermediates!
 <table>
   <tr>
     <td align="center"><a href="https://bolajiayodeji.com"><img src="https://avatars2.githubusercontent.com/u/30334776?v=4" width="100px;" alt="Bolaji Ayodeji"/><br /><sub><b>Bolaji Ayodeji</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/js-code-snippets/commits?author=BolajiAyodeji" title="Code">💻</a></td>
+    <td align="center"><a href="https://blog.mikeattara.com"><img src="https://avatars1.githubusercontent.com/u/31483629?v=4" width="100px;" alt="Mike Perry Y Attara"/><br /><sub><b>Mike Perry Y Attara</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/js-code-snippets/commits?author=mikeattara" title="Code">💻</a></td>
   </tr>
 </table>
 
