@@ -14,16 +14,6 @@ For beginners and intermediates!
 
 ## Contributors Guide
 
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore -->
-<table>
-  <tr>
-    <td align="center"><a href="https://bolajiayodeji.com"><img src="https://avatars2.githubusercontent.com/u/30334776?v=4" width="100px;" alt="Bolaji Ayodeji"/><br /><sub><b>Bolaji Ayodeji</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/js-code-snippets/commits?author=BolajiAyodeji" title="Code">💻</a></td>
-    <td align="center"><a href="https://blog.mikeattara.com"><img src="https://avatars1.githubusercontent.com/u/31483629?v=4" width="100px;" alt="Mike Perry Y Attara"/><br /><sub><b>Mike Perry Y Attara</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/js-code-snippets/commits?author=mikeattara" title="Code">💻</a></td>
-  </tr>
-</table>
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
 - If you are new to Git and Github, it is advisable you go through
     [GitHub For Beginners](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/)
     before moving to the next step.
@@ -81,3 +71,16 @@ $ git merge upstream/master
 
 ## Licence
 [MIT](https://opensource.org/licenses/MIT)
+
+## Contributors
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore -->
+<table>
+  <tr>
+    <td align="center"><a href="https://bolajiayodeji.com"><img src="https://avatars2.githubusercontent.com/u/30334776?v=4" width="100px;" alt="Bolaji Ayodeji"/><br /><sub><b>Bolaji Ayodeji</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/js-code-snippets/commits?author=BolajiAyodeji" title="Code">💻</a></td>
+    <td align="center"><a href="https://blog.mikeattara.com"><img src="https://avatars1.githubusercontent.com/u/31483629?v=4" width="100px;" alt="Mike Perry Y Attara"/><br /><sub><b>Mike Perry Y Attara</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/js-code-snippets/commits?author=mikeattara" title="Code">💻</a></td>
+  </tr>
+</table>
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
