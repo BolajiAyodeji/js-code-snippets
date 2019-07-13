@@ -1,5 +1,5 @@
 <div align="center">
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors)
 
 # JAVASCRIPT CODE SNIPPETS
 
@@ -72,6 +72,7 @@ $ git merge upstream/master
     <td align="center"><a href="https://bolajiayodeji.com"><img src="https://avatars2.githubusercontent.com/u/30334776?v=4" width="100px;" alt="Bolaji Ayodeji"/><br /><sub><b>Bolaji Ayodeji</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/js-code-snippets/commits?author=BolajiAyodeji" title="Code">💻</a></td>
     <td align="center"><a href="https://blog.mikeattara.com"><img src="https://avatars1.githubusercontent.com/u/31483629?v=4" width="100px;" alt="Mike Perry Y Attara"/><br /><sub><b>Mike Perry Y Attara</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/js-code-snippets/commits?author=mikeattara" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/1baga"><img src="https://avatars2.githubusercontent.com/u/4129853?v=4" width="100px;" alt="Umar Mash"/><br /><sub><b>Umar Mash</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/js-code-snippets/commits?author=1baga" title="Code">💻</a></td>
+    <td align="center"><a href="http://www.edmundekott.me"><img src="https://avatars1.githubusercontent.com/u/34253790?v=4" width="100px;" alt="Edmund Ekott"/><br /><sub><b>Edmund Ekott</b></sub></a><br /><a href="https://github.com/BolajiAyodeji/js-code-snippets/commits?author=Edmund1645" title="Code">💻</a></td>
   </tr>
 </table>
 
