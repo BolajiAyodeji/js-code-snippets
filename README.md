@@ -57,15 +57,6 @@ $ git merge upstream/master
 ## Reference
 [CodeWithMosh JavaScript for Beginners Course](https://codewithmosh.com/courses/324741)
 
-## Helpful Resources
-
-- [Pro GIT Book](https://git-scm.com/book/en/v2)
-
-- [Try Git](https://try.github.io/)
-
-- [Git/ Git Hub on Windows](https://www.youtube.com/watch?v=J_Clau1bYco)
-
-
 ## Author
 [Bolaji Ayodeji](https://github.com/BolajiAyodeji)
 
